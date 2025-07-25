@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there, I'm Ekdiattan 👋
 
-<!--
-**ekdiattan/ekdiattan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full Stack Developer** from Indonesia 🇮🇩, focused on building clean and modular backend systems with **Node.js, TypeScript, Laravel**, and **Prisma**.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- 🧠 Languages: TypeScript, JavaScript, PHP
+- ⚙️ Frameworks: NestJS, Express, Laravel
+- 🗃️ Databases: MySQL, PostgreSQL, Prisma ORM
+- 🧪 Testing: Jest, PHPUnit
+- 🛠️ Tools: Git, Docker, Postman, VS Code
 
-- 🔭 I’m currently working on Sekawan Media
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+- 📌 Building modular and scalable backend apps
+- 🔭 Currently working at **Sekawan Media**
+- 🌱 Learning Clean Architecture & Advanced Prisma
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ekdiattan&show_icons=true&theme=radical&hide=stars)
+
+### 📈 Visitor Badge
+![Visitors](https://komarev.com/ghpvc/?username=ekdiattan&color=blue)
+
+### 📫 Let's Connect!
+- 💼 [LinkedIn](https://linkedin.com/in/ekdiattan)
+- 🐦 [Twitter](https://twitter.com/yourusername)
+- 🌐 [Website/Portfolio](https://yourwebsite.com) <!-- Optional -->
