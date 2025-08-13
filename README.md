@@ -1,12 +1,12 @@
 ## Hi there, I'm Ekdiattan 👋
 
-I'm a passionate **Full Stack Developer** from Indonesia 🇮🇩, focused on building clean and modular backend systems with **Node.js, TypeScript, Laravel**, and **Prisma**.
+I'm a passionate **Backend Developer** from Indonesia 🇮🇩, focused on building clean and modular backend systems with **Node.js, TypeScript, Laravel**.
 
 ### 🔧 Tech Stack
 - 🧠 Languages: TypeScript, JavaScript, PHP
 - ⚙️ Frameworks: NestJS, Express, Laravel
 - 🗃️ Databases: MySQL, PostgreSQL, Prisma ORM
-- 🧪 Testing: Jest, PHPUnit
+- 🧪 Testing: PHPUnit
 - 🛠️ Tools: Git, Docker, Postman, VS Code
 
 ### 🚀 Current Focus
