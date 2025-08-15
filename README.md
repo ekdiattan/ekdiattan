@@ -3,17 +3,16 @@
 I'm a passionate **Backend Developer** from Indonesia 🇮🇩, focused on building clean and modular backend systems with **Node.js, TypeScript, Laravel**.
 
 ### 🔧 Tech Stack
-- 🧠 Languages: TypeScript, JavaScript, PHP
+- 🧠 Languages: TypeScript, PHP
 - ⚙️ Frameworks: NestJS, Express, Laravel
-- 🗃️ Databases: MySQL, PostgreSQL, Prisma ORM
+- 🗃️ Databases: MySQL, PostgreSQL, SQL Server
 - 🧪 Testing: PHPUnit
 - 🛠️ Tools: Git, Docker, Postman, VS Code
 
 ### 🚀 Current Focus
 - 📌 Building modular and scalable backend apps
-- 🔭 Currently working at **Sekawan Media**
-- 🌱 Learning Clean Architecture & Advanced Prisma
-
+- 🔭 Currently working as Freelance Backend Developer
+- 🌱 Learning Clean Architecture
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ekdiattan&show_icons=true&theme=radical&hide=stars)
 
@@ -21,6 +20,4 @@ I'm a passionate **Backend Developer** from Indonesia 🇮🇩, focused on build
 ![Visitors](https://komarev.com/ghpvc/?username=ekdiattan&color=blue)
 
 ### 📫 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/ekdiattan)
-- 🐦 [Twitter](https://twitter.com/yourusername)
-- 🌐 [Website/Portfolio](https://yourwebsite.com) <!-- Optional -->
+- 💼 [LinkedIn](https://linkedin.com/in/hadyanyumaekdiattan)
