@@ -7,7 +7,7 @@ I'm a passionate **Backend Developer** from Indonesia 🇮🇩, focused on build
 - ⚙️ Frameworks: Spring Boot, Express JS, Nest JS, Laravel
 - 🗃️ Databases: MySQL, PostgreSQL, SQL Server
 - 🛠️ Tools: Git, Docker, Postman, VS Code
-- 
+
 ### 🚀 Current Focus
 - 📌 Building modular and scalable backend apps
 - 🔭 Currently working at Banking Industry
