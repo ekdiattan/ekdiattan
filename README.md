@@ -1,17 +1,16 @@
 ## Hi there, I'm Ekdiattan 👋
 
-I'm a passionate **Backend Developer** from Indonesia 🇮🇩, focused on building clean and modular backend systems with **Node.js, TypeScript, Laravel**.
+I'm a passionate **Backend Developer** from Indonesia 🇮🇩, focused on building clean and modular backend systems with **Java, PHP, Node.js**.
 
 ### 🔧 Tech Stack
-- 🧠 Languages: TypeScript, PHP
-- ⚙️ Frameworks: NestJS, Express, Laravel
+- 🧠 Languages: Java, Node.js, PHP
+- ⚙️ Frameworks: Spring Boot, Express JS, Nest JS, Laravel
 - 🗃️ Databases: MySQL, PostgreSQL, SQL Server
-- 🧪 Testing: PHPUnit
 - 🛠️ Tools: Git, Docker, Postman, VS Code
-
+- 
 ### 🚀 Current Focus
 - 📌 Building modular and scalable backend apps
-- 🔭 Currently working as Freelance Backend Developer
+- 🔭 Currently working at Banking Industry
 - 🌱 Learning Clean Architecture
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ekdiattan&show_icons=true&theme=radical&hide=stars)
