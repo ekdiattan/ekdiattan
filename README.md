@@ -1,6 +1,6 @@
 ## Hi there, I'm Ekdiattan 👋
 
-I'm a passionate **Backend Developer** from Indonesia 🇮🇩, focused on building clean and modular backend systems with **Java, PHP, Node.js**.
+I'm a passionate **Fullstack Web Developer and Backend Developer** from Indonesia, focused on building clean and modular backend systems with **Java, PHP, Node.js**.
 
 ### 🔧 Tech Stack
 - 🧠 Languages: Java, Node.js, PHP
